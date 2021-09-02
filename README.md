@@ -38,3 +38,12 @@ Run test
 ``` bash
 python3 test.py
 ```
+
+
+### Screenshot
+
+worker
+![image](https://github.com/how-chtsec/celery_example/blob/main/screenshot/celery-worker.png?raw=true)
+
+checker
+![image](https://github.com/how-chtsec/celery_example/blob/main/screenshot/celery-checker.png?raw=true)
